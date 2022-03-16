@@ -1,5 +1,6 @@
 {
-	"name": "brendon eric lucas",
+	"name": "fcc-learn-npm-package-json",
+	"author": "brendon-eric-lucas",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
